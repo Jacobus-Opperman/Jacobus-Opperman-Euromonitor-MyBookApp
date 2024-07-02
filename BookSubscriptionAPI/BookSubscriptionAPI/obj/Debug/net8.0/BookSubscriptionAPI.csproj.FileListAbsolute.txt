@@ -33,3 +33,39 @@ C:\Users\OomKoos\Desktop\Coding Stuff\VS\Test\Test\BookSubscriptionAPI\BookSubsc
 C:\Users\OomKoos\Desktop\Coding Stuff\VS\Test\Test\BookSubscriptionAPI\BookSubscriptionAPI\obj\Debug\net8.0\BookSubscriptionAPI.pdb
 C:\Users\OomKoos\Desktop\Coding Stuff\VS\Test\Test\BookSubscriptionAPI\BookSubscriptionAPI\obj\Debug\net8.0\BookSubscriptionAPI.genruntimeconfig.cache
 C:\Users\OomKoos\Desktop\Coding Stuff\VS\Test\Test\BookSubscriptionAPI\BookSubscriptionAPI\obj\Debug\net8.0\ref\BookSubscriptionAPI.dll
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\bin\Debug\net8.0\BookSubscriptionAPI.exe
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\bin\Debug\net8.0\BookSubscriptionAPI.deps.json
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\bin\Debug\net8.0\BookSubscriptionAPI.runtimeconfig.json
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\bin\Debug\net8.0\BookSubscriptionAPI.dll
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\bin\Debug\net8.0\BookSubscriptionAPI.pdb
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\obj\Debug\net8.0\BookSubscriptionAPI.csproj.AssemblyReference.cache
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\obj\Debug\net8.0\BookSubscriptionAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\obj\Debug\net8.0\BookSubscriptionAPI.AssemblyInfoInputs.cache
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\obj\Debug\net8.0\BookSubscriptionAPI.AssemblyInfo.cs
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\obj\Debug\net8.0\BookSubscriptionAPI.csproj.CoreCompileInputs.cache
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\obj\Debug\net8.0\BookSubscriptionAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\obj\Debug\net8.0\BookSubscriptionAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\obj\Debug\net8.0\BookSubscriptionAPI.sourcelink.json
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\obj\Debug\net8.0\staticwebassets\msbuild.BookSubscriptionAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.BookSubscriptionAPI.props
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookSubscriptionAPI.props
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookSubscriptionAPI.props
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\obj\Debug\net8.0\scopedcss\bundle\BookSubscriptionAPI.styles.css
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\obj\Debug\net8.0\BookSubs.18FED6E8.Up2Date
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\obj\Debug\net8.0\BookSubscriptionAPI.dll
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\obj\Debug\net8.0\refint\BookSubscriptionAPI.dll
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\obj\Debug\net8.0\BookSubscriptionAPI.pdb
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\obj\Debug\net8.0\BookSubscriptionAPI.genruntimeconfig.cache
+C:\Users\OomKoos\Desktop\Coding Stuff\Euromonitor\Interview Assessment\BookSubscriptionAPI\BookSubscriptionAPI\obj\Debug\net8.0\ref\BookSubscriptionAPI.dll

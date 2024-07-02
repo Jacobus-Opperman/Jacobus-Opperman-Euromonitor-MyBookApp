@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookSubscriptionAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+865002b59044b4bf9706d78963d5d850d59fbed1")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookSubscriptionAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookSubscriptionAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
