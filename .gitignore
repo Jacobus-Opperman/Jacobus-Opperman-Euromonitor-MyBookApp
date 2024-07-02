@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+dist/
+
+# Visual Studio
+.vscode/
+bin/
+obj/
+
+# OS
+.DS_Store
+Thumbs.db
