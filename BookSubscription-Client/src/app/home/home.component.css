@@ -1,0 +1,20 @@
+.wrapper{
+    display: flex;
+}
+
+.home-container{
+    flex:auto;
+}
+
+.subscription-container{
+    flex:auto;
+}
+
+.book{
+    margin: 5px 0px 5px 0px;
+}
+
+.book-wrapper{
+    display: flex;
+    justify-content: space-between;
+}

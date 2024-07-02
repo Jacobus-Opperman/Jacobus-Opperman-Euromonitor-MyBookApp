@@ -1,0 +1,17 @@
+<div class="wrapper">
+  <div class="home-container">
+    <h2>Available Books</h2>
+    <ul>
+      <li class="book" *ngFor="let book of books">
+        <div class="book-wrapper">
+          <span>{{ book.name }}</span>
+          <button (click)="onLike(book.id)">like</button>
+        </div>
+      </li>
+    </ul>
+  </div>
+
+  <div class="subscription-container">
+    <app-subscription (unsubscribed)="onUnsubscribed()"></app-subscription>
+  </div>
+</div>

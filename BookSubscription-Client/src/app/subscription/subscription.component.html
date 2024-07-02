@@ -1,0 +1,8 @@
+<h2>Subscribed Books</h2>
+<ul>
+  <li *ngFor="let book of subscriptions">
+    {{ book.name }}
+    <button (click)="unsubscribe(book.id)">Unsubscribe</button>
+  </li>
+</ul>
+
