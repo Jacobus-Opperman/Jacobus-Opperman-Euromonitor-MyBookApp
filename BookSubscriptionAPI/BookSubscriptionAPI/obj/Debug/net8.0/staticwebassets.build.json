@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HbVf4OoAQQeWweKMT7VJQ2Q0AkVhmTjTcfx0W5QsEMQ=",
+  "Source": "BookSubscriptionAPI",
+  "BasePath": "_content/BookSubscriptionAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
